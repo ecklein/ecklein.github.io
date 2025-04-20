@@ -10,4 +10,4 @@ Information about me:
 
 ### Contact me
 
-[email@domain.com](mailto:ethan.kleinc@gmail.com)
+[ethan.kleinc@gmail.com](mailto:ethan.kleinc@gmail.com)
